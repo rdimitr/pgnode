@@ -1,0 +1,17 @@
+{
+  "name": "pgnode",
+  "version": "1.0.0",
+  "description": "My pg app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "express": "^4.17.2",
+    "pg": "^8.7.3"
+  }
+}
